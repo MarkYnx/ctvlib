@@ -2,6 +2,8 @@ mod ctv;
 mod error;
 
 mod tmplhash;
+mod transaction_graph;
+mod bitcoin_sdk;
 
 /// Useful utility functions.
 pub mod util;
